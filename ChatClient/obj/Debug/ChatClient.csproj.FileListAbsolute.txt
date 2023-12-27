@@ -1,0 +1,12 @@
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\bin\Debug\ChatClient.exe
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\bin\Debug\ChatClient.pdb
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\obj\Debug\ChatClient.ChatClient.resources
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\obj\Debug\ChatClient.exe
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\obj\Debug\ChatClient.pdb
+D:\Workspace\Learn\ASPNET\AppChat\ChatClient\obj\Debug\AppChat.EmojiForm.resources
